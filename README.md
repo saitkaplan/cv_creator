@@ -1,4 +1,5 @@
-# 📄 CV Creator - Modern CV Builder - *Created by Sait Kaplan*
+# 📄 CV Creator - Modern CV Builder
+> *Created by Sait Kaplan*
 
 Modern, kullanıcı dostu ve ATS (Applicant Tracking System) uyumlu CV oluşturma uygulaması. React ve Vite ile geliştirilmiş, PDF ve PNG export özellikleri ile profesyonel CV'ler oluşturun.
 
@@ -9,10 +10,10 @@ Modern, kullanıcı dostu ve ATS (Applicant Tracking System) uyumlu CV oluşturm
 ## ✨ Özellikler
 
 ### 🎯 **Temel Özellikler**
-- 📝 **Çok Dilli Destek** - Türkçe ve İngilizce
-- 🎨 **Modern UI/UX** - Responsive ve kullanıcı dostu arayüz
-- 📱 **Mobil Uyumlu** - Tüm cihazlarda mükemmel görünüm
-- ⚡ **Hızlı ve Performanslı** - Vite ile optimize edilmiş
+- 📝 **Farklı Dil Desteği** - Türkçe ve İngilizce
+- 🎨 **Modern UI/UX** - Responsive ve Kullanıcı Dostu Arayüz
+- 📱 **Mobil Uyumlu** - Tüm Cihazlarda Mükemmel Görünüm
+- ⚡ **Hızlı ve Performanslı** - Vite ile Optimize Edilmiş
 
 ### 📄 **CV Bölümleri**
 - 👤 **Kişisel Bilgiler** - Fotoğraf ve İletişim Bilgileri
@@ -27,7 +28,7 @@ Modern, kullanıcı dostu ve ATS (Applicant Tracking System) uyumlu CV oluşturm
 ### 🚀 **Export Özellikleri**
 - 📄 **PDF Export** - A4 Formatında Yüksek Kalite Çıktılar
 - 🖼️ **PNG Export** - Görsel Format
-- 🖨️ **Print** - Direkt Yazdırma
+- 🖨️ **Print** - Direkt Yazdırma ve İndirme Seçeneği
 - 💾 **Local Storage** - Verilerinizi Kaydedin
 
 ### 🎯 **ATS Uyumluluğu**
@@ -55,7 +56,7 @@ Modern, kullanıcı dostu ve ATS (Applicant Tracking System) uyumlu CV oluşturm
 
 1. **Repository'yi Klonlayın**
 ```bash
-git clone https://github.com/saitkaplan/cv-creator.git
+git clone https://github.com/saitkaplan/cv_creator.git
 cd cv-creator
 ```
 
